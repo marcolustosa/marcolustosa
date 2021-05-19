@@ -1,6 +1,6 @@
 <h3 align="center">A passionate FullStack developer from Brazil <img src="https://image.flaticon.com/icons/png/512/197/197386.png" height="20" width="20"/> </h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **PHP**
 
